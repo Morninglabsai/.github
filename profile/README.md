@@ -1,6 +1,6 @@
 # MorningLabs AI
 
-We build AI systems that businesses actually use: agents, automations and internal boards, wired into the tools a company already runs, and tested against their worst day before a customer meets one.
+MorningLabs AI uses the AI that's already out there to build things your business uses every day: answering customers, calling back leads, reading CVs. Each one is built around how you work, and before a customer meets it, we make its worst day happen.
 
 The category is AI product development and AI-powered custom SaaS. The method is orchestration: existing tools, a company's own data and a model, joined into one system that does a job end to end rather than a chatbot bolted to the side of it.
 
@@ -29,7 +29,7 @@ The client keeps the repository, the documentation and deployment access. It run
 
 ## Things we have built
 
-- **πCounter**: five agents that watch a storefront, orders, customer conversations, ads and money, write to one record, and bring the change with the evidence attached. Our own product, not a client build. https://picounterai.com
+- **πCounter**, an e-commerce operations product we built for a whole store: “Five agents watch your storefront, orders, customer conversations, ads and money, write to one record, and bring you the change with the evidence attached.” Our own product, not a client build. https://picounterai.com
 - **A WhatsApp ordering agent for Solar Vista**, which taught us that customers send four messages rather than one, and that a message is not the same thing as a question.
 
 ## Writing
@@ -39,6 +39,6 @@ https://morninglabsai.com/resources
 
 ---
 
-MorningLabs AI is a brand of Morningfield Ventures Pvt Ltd, registered in Rewa, Madhya Pradesh, India. The Morning Beer, a marketing studio, is the other brand under the same company. Remote, working across UK, India, EU and Australian hours.
+MorningLabs AI is a brand of [Morningfield Ventures Private Limited](https://morningfieldventures.com/), registered in Rewa, Madhya Pradesh, India. The Morning Beer, a marketing studio, is the other brand under the same company. Remote, working across UK, India, EU and Australian hours.
 
 **Not affiliated with** any other company or organisation using a similar name, including the unrelated `github.com/MorningLabs` account.
